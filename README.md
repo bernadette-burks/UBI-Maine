@@ -1,4 +1,4 @@
-# 🌱 Universal Basic Income (UBI) in the State of Maine  
+# Universal Basic Income (UBI) in the State of Maine 🌱  
 ### *Data Analysis & Visualizations in Support of UBI Implementation*  
 
 ![Python 3.13](https://img.shields.io/badge/Python-3.13-blue?style=flat-square&logo=python&logoColor=white) 
