@@ -2,12 +2,6 @@
 ### *Data Analysis & Visualizations in Support of UBI Implementation*  
 
 ![Python 3.13](https://img.shields.io/badge/Python-3.13-blue?style=flat-square&logo=python&logoColor=white) 
-![NumPy 1.26.4](https://img.shields.io/badge/NumPy-1.26.4-orange?style=flat-square&logo=NumPy&logoColor=white) 
-![Pandas 2.1.1](https://img.shields.io/badge/Pandas-2.1.1-lightblue?style=flat-square&logo=pandas&logoColor=white) 
-![Matplotlib 3.8.1](https://img.shields.io/badge/Matplotlib-3.8.1-red?style=flat-square&logo=matplotlib&logoColor=white) 
-![Seaborn 0.13.2](https://img.shields.io/badge/Seaborn-0.13.2-purple?style=flat-square&logo=seaborn&logoColor=white) 
-![Scikit-learn 1.3.2](https://img.shields.io/badge/Scikit--learn-1.3.2-green?style=flat-square&logo=scikit-learn&logoColor=white)  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter&logoColor=white) 
 ![Project](https://img.shields.io/badge/Project-Data%20Analysis-violet?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Professional%20-informational?style=flat-square&logo=none)
 ![Data Source](https://img.shields.io/badge/Data-Census%20ACS-pink?style=flat-square)
