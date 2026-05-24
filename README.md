@@ -37,6 +37,8 @@ I chose to work on this project professionally - with a passion for my home stat
 
 The primary goal of this analysis is to explore how the Median Household Income for Maine (between 1984-2024) can be visualized effectively to highlight a genuine benefit from possible UBI implementation.
 
+I am asking the question: *“How can data visualization humanize economic reality?”*
+
 ---
 
 ## ⚙️ Required Technologies
